@@ -1,0 +1,34 @@
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\bin\Debug\Aplikasi sisdig.exe
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\bin\Debug\Aplikasi sisdig.pdb
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\bin\Debug\Aplikasi sisdig.xml
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.Form1.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.Resources.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi sisdig.vbproj.GenerateResource.Cache
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi sisdig.exe
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi sisdig.xml
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi sisdig.pdb
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.Form2.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.Form3.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.list.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.float64.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.konveter.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.email.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.float_32bit.resources
+D:\PROJECT\TA\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.floatheksa.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi sisdig.exe
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi sisdig.xml
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi sisdig.pdb
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\bin\Debug\Aplikasi sisdig.exe
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\bin\Debug\Aplikasi sisdig.pdb
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\bin\Debug\Aplikasi sisdig.xml
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.Form1.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.Form2.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.email.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.float_32bit.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.float64.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.floatheksa.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.Form3.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.Resources.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.konveter.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi_sisdig.list.resources
+E:\New folder\Aplikasi sisdig\Aplikasi sisdig\obj\x86\Debug\Aplikasi sisdig.vbproj.GenerateResource.Cache
